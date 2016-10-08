@@ -18,10 +18,11 @@ body {
 
 }
 
-.large-7{
+.top_bot h3{
 	color:white;
-}
+	font-family: 'Bowlby One SC', cursive;
 
+}
 
 
 .label {
@@ -36,7 +37,7 @@ h3 {
 }
 
 h4 {
-	color: black;
+	color: white;
 	font-family: 'Raleway', sans-serif;
 	text-align:right;
 	margin-right: 0px;
@@ -124,12 +125,16 @@ img:hover {
 }
 
 #quote {
-	color: black;
+	color: white;
 	font-size: 14px;
 }
 
 #quote_name {
-	color:#6c6c6c;
+	color: white;
+}
+
+blockquote {
+	color: white;
 }
 
 blockquote {
