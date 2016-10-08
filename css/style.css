@@ -21,13 +21,14 @@ body {
 .top_bot h3{
 	color:white;
 	font-family: 'Bowlby One SC', cursive;
-
+	letter-spacing: 2px;
 }
 
 
 .label {
 	background-color:#666;
 	font-weight: bold;
+	 
 }
 
 h3 {
@@ -130,7 +131,7 @@ img:hover {
 }
 
 #quote_name {
-	color: white;
+	color:#6c6c6c;
 }
 
 blockquote {
