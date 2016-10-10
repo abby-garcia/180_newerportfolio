@@ -25,6 +25,25 @@ body {
 }
 
 
+.top_bot ul{
+    margin-left: -3%;
+}
+
+.top_bot li{
+	text-decoration: none;
+	list-style: none;
+	display: inline-block;
+	padding-left: 3%;
+
+}
+
+.top_bot li a{
+	color:white;
+	text-decoration: none;
+
+}
+
+
 .label {
 	background-color:#666;
 	font-weight: bold;
